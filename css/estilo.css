@@ -1,0 +1,17 @@
+/* seletor {
+    propriedade: valor;
+    propriedade: valor;
+} */
+body{
+    background-color: red;
+
+}
+
+.segunda {
+    color: blue;
+}
+
+.primeira {
+    color: green;
+}
+
